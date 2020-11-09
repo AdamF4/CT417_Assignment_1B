@@ -9,5 +9,6 @@
         <module name="CT417_Assignment_1B" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
